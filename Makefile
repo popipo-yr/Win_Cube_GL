@@ -13,6 +13,7 @@
 
 KHRONOS_HEADERS ?= ..
 GLES_LIB_PATH ?= ../bin
+
 EGL_LIB_PATH ?= ../bin
 
 INCLUDES = include/
