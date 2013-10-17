@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"s*module"
+			],
+			[
+				"dr",
+				"draw_circle"
+			],
+			[
+				"inp",
+				"input.GetCursorPos"
+			],
+			[
+				"input",
+				"input.WasKeyReleased"
+			],
+			[
+				"CI",
+				"CImageFont()	constructor"
+			],
+			[
+				"c",
+				"c_str() const	const _CharT *"
+			],
+			[
+				"getc",
+				"getchar()	int"
+			],
+			[
+				"ik",
+				"iKeyState	int"
+			],
+			[
+				"m_",
+				"m_willOut	bool"
+			],
+			[
+				"m_w",
+				"m_win_width	unsigned int"
+			],
+			[
+				"GLF",
+				"glfw"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"i",
+				"I"
+			],
+			[
+				"h",
+				"Home"
+			],
+			[
+				"work",
+				"workplace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cube.c",
+			"settings":
+			{
+				"buffer_size": 10540,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/PMake.sublime-build",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/define.lua",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/logic.lua",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/pen.txt",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/pen.txt.dump",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/music.txt.dump",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/music.txt",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/define.lua.dump",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/define.lua~.dump",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/logic.lua~.dump",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/define.lua~",
+		"/home/popipo/workplace/X-O/Classes/input/input.cpp.dump",
+		"/home/popipo/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+		"/home/popipo/workplace/X-O/Classes/demos/tetris.cpp",
+		"/home/popipo/workplace/X-O/Classes/air.h",
+		"/home/popipo/.config/sublime-text-2/Packages/User/CTags.sublime-settings",
+		"/home/popipo/workplace/X-O/Classes/graphics/pen.cpp",
+		"/home/popipo/workplace/X-O/Classes/graphics/texture.cpp",
+		"/home/popipo/.config/sublime-text-2/Packages/CTags/Default.sublime-keymap",
+		"/home/popipo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/popipo/.config/sublime-text-2/Packages/User/Lua.sublime-settings",
+		"/home/popipo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/usr/include/c++/4.7/bits/stl_map.h",
+		"/usr/include/c++/4.7/bits/stl_tree.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/pen.h",
+		"/home/popipo/workplace/X-O/Makefile",
+		"/usr/include/c++/4.7/bits/ios_base.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/texture.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/sprite.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/sprite.cpp",
+		"/home/popipo/workplace/X-O/Classes/script/script.cpp",
+		"/home/popipo/workplace/X-O/Classes/graphics/openGL.h",
+		"/home/popipo/workplace/X-O/Classes/tool/common.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/surface.cpp",
+		"/home/popipo/workplace/X-O/Classes/system/system.cpp",
+		"/home/popipo/workplace/X-O/Classes/input/input.cpp",
+		"/usr/include/GL/glfw.h",
+		"/home/popipo/workplace/X-O/Classes/input/input.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/image.h",
+		"/home/popipo/workplace/X-O/bin/debug/res/tetris/texture.txt",
+		"/home/popipo/workplace/X-O/Classes/graphics/surface.h",
+		"/home/popipo/workplace/X-O/Classes/gui/gui_edit.cpp",
+		"/home/popipo/workplace/X-O/Classes/gui/gui.h",
+		"/home/popipo/workplace/X-O/Classes/gui/gui_system.cpp",
+		"/home/popipo/workplace/X-O/Classes/tool/timer.h",
+		"/home/popipo/workplace/X-O/Classes/tool/timer.cpp",
+		"/home/popipo/workplace/X-O/Classes/tool/map.h",
+		"/home/popipo/workplace/X-O/Classes/graphics/image.cpp",
+		"/home/popipo/workplace/X-O/Classes/music/fmod/fmod.h",
+		"/home/popipo/workplace/X-O/Classes/music/fmod/fmod_codec.h",
+		"/home/popipo/workplace/X-O/Classes/script/script.h",
+		"/home/popipo/workplace/X-O/Classes/script/lua/lua.h",
+		"/home/popipo/.config/sublime-text-2/Packages/User/PMake.sublime-build",
+		"/home/popipo/.config/sublime-text-2/Packages/User/Lua.sublime-build",
+		"/home/popipo/.config/sublime-text-2/Packages/User/SublimeGDB.sublime-settings",
+		"/home/popipo/workplace/X-O/X-O.sublime-project",
+		"/home/popipo/workplace/X-O/Classes/music/music.cpp",
+		"/home/popipo/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/popipo/workplace/X-O/Classes/system/system.h",
+		"/home/popipo/workplace/X-O/ALL.mk",
+		"/home/popipo/workplace/X-O/Classes/tool/ini.h",
+		"/home/popipo/workplace/Air/Air.sublime-project",
+		"/home/popipo/workplace/X-O/demos/tetris.cpp",
+		"/home/popipo/workplace/Air/Classes/system/system.h",
+		"/home/popipo/workplace/Air/Classes/graphics/surface.h",
+		"/home/popipo/workplace/Air/Classes/graphics/texture.h",
+		"/home/popipo/workplace/Air/Classes/system/system.cpp",
+		"/home/popipo/workplace/Air/Classes/demos/tetris.cpp",
+		"/home/popipo/workplace/Air/Classes/physics/phy2d.h",
+		"/home/popipo/workplace/Air/Classes/physics/phy2d.cpp",
+		"/home/popipo/workplace/Air/Classes/graphics/openGL.h",
+		"/home/popipo/workplace/Air/Classes/gui/gui.h",
+		"/home/popipo/workplace/Air/Classes/gui/gui_button.cpp",
+		"/home/popipo/workplace/Air/Classes/graphics/sprite.h",
+		"/home/popipo/workplace/Air/Classes/tool/timer.h",
+		"/home/popipo/workplace/Air/Classes/tool/timer.cpp",
+		"/home/popipo/workplace/Air/Classes/air.h",
+		"/home/popipo/workplace/Air/Classes/script/script.h",
+		"/home/popipo/workplace/Air/Classes/script/script.cpp",
+		"/home/popipo/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/popipo/workplace/Air/Classes/graphics/image.h",
+		"/home/popipo/workplace/Air/Classes/graphics/image.cpp",
+		"/home/popipo/workplace/Air/Makefile",
+		"/home/popipo/workplace/Air/ALL.mk",
+		"/home/popipo/workplace/lua/cao.lua",
+		"/media/popipo/本地磁盘C/Documents and Settings/popipo/Application Data/Sublime Text 2/Packages/User/lua.sublime-build",
+		"/media/popipo/本地磁盘C/Documents and Settings/popipo/Application Data/Sublime Text 2/Packages/User/NMake.sublime-build",
+		"/media/popipo/本地磁盘C/Documents and Settings/popipo/Application Data/Sublime Text 2/Packages/User/Makefile.sublime-settings",
+		"/home/popipo/.config/sublime-text-2/Packages/User/PMake.sublime-workspace",
+		"/home/popipo/workplace/X-S/Classes/AppDelegate.cpp",
+		"/home/popipo/workplace/X-S/Classes/AppDelegate.h",
+		"/home/popipo/.config/sublime-text-2/Packages/User/SublimeClang.sublime-settings",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/platform/CCPlatformConfig.h",
+		"/home/popipo/workplace/X-S/Classes/Data/XSViewETC/XSWheelETC.h",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/platform/CCPlatformMacros.h",
+		"/home/popipo/workplace/X-S/Classes/UI/Home/HomeScene.h",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/include/ccConfig.h",
+		"/home/popipo/workplace/X-S/X-S.sublime-project",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/actions/CCActionInstant.h",
+		"/home/popipo/workplace/X-S/Classes/XSApp.cpp",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/touch_dispatcher/CCTouchHandler.h",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/actions/CCActionTiledGrid.h",
+		"/home/popipo/.config/sublime-text-2/Packages/SublimeGDB/Default.sublime-keymap",
+		"/home/popipo/workplace/X-S/Classes/UnitTool/lib_json/json_value.cpp",
+		"/home/popipo/workplace/X-S/Classes/UnitTool/lib_json/json_reader.cpp",
+		"/home/popipo/workplace/X-S/Classes/Data/XSJSONHelper.h",
+		"/home/popipo/workplace/X-S/Classes/Data/XSViewETC/XSDataes/XSWheelETCData.h",
+		"/home/popipo/workplace/X-S/Classes/Data/XSViewETC/XSWheelETC.cpp",
+		"/home/popipo/workplace/X-S/Classes/UnitTool/XSBase64.cpp",
+		"/usr/include/c++/4.7/bits/basic_string.tcc",
+		"/usr/include/c++/4.7/bits/streambuf_iterator.h",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/platform/CCFileUtils.cpp",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/cocoa/CCString.cpp",
+		"/usr/include/c++/4.7/bits/basic_string.h",
+		"/home/popipo/workplace/X-S/Classes/Data/XSDataEngine/XSDataes/XSPlayerInfoData.h",
+		"/home/popipo/workplace/X-S/Classes/Data/XSDataEngine/XSPlayerInfo.cpp",
+		"/home/popipo/workplace/X-S/Classes/Data/XSInfo.cpp",
+		"/home/popipo/.config/sublime-text-2/Packages/SublimeClang/Default.sublime-keymap",
+		"/home/popipo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/popipo/桌面/AppDelegate.h",
+		"/home/popipo/workplace/X-S/proj.linux/Makefile",
+		"/home/popipo/workplace/libcurl/Classes/AppDelegate.cpp",
+		"/home/popipo/workplace/X-S/Classes/UI/Other/FirstToHomeLoad.cpp",
+		"/home/popipo/桌面/AppDelegate.mm",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/sprite_nodes/CCSprite.cpp",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/textures/CCTextureCache.cpp",
+		"/usr/include/c++/4.7/bits/stl_iterator.h",
+		"/usr/include/c++/4.7/bits/stl_vector.h",
+		"/home/popipo/cocos2d-2.1rc0-x-2.1.3/cocos2dx/platform/linux/CCFileUtilsLinux.cpp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"fra",
+			"GGGG",
+			"GGGg",
+			"GGG",
+			"GG",
+			"GGGG",
+			"GG",
+			"    \"",
+			"CAniSprite",
+			"CSprite",
+			"m_p_render_func",
+			"input_timer_pass",
+			"luaL_register",
+			"state",
+			"VK_SHIFT",
+			"FMOD_System_Create",
+			"hfont",
+			"CBmp",
+			"AiR",
+			"LIB_DIR",
+			"x",
+			"analyzer",
+			"-I",
+			"/*",
+			"GamePub/Game.fnt",
+			"I",
+			"find",
+			"/*\"",
+			"/home/popipo/workplace/X-S",
+			"Project_Root",
+			"OBJECTS",
+			"OBJ_DIR",
+			"INCLUDES",
+			"CXXFLAGS",
+			"SOURCES",
+			"MAKEFILE_LIST",
+			"CORE_MAKEFILE_LIST",
+			"DEPS",
+			"CORE_MAKEFILE_LIST",
+			"DEFINES",
+			"VISIBILITY",
+			"DEFINES",
+			"VISIBILITY",
+			"MAKEFILE_LIST",
+			"OBJ_DIR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"X-O",
+			"",
+			"\\",
+			"$(Project_Root)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/cube.c",
+					"settings":
+					{
+						"buffer_size": 10540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6395,
+								6395
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4256.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 161.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": false
+}
